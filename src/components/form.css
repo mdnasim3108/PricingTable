@@ -1,0 +1,22 @@
+.cardelement{
+	display: flex;
+	align-items: center;
+	border-top: 1px solid #819efc;
+    width: 40rem;
+    background-color: #7795f8;
+    border-radius: 3px;
+    margin-bottom: 2rem;
+}
+.StripeElement{
+    width: 100%;
+    padding: 1rem 0.5rem;
+}
+button{
+    padding: 1rem 0;
+    background-color:blueviolet;
+    border-style: none;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+
